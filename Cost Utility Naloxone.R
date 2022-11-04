@@ -1,5 +1,5 @@
-install.packages("readxl")
-
+#install.packages("readxl")
+library(readxl)
 
 tpheroin_death    <-  0.0075   # Heroin to death
 heroin_continue     <-  0.8425   # Heroin Use --> Heroin Use
